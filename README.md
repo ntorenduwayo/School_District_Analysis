@@ -2,13 +2,13 @@
 Use Jupyter Notebook combined with the power of python to analyze PyCitySchools district data. Apply python libraries (e.g. numpy), a function such as loc to clean, and other python tools to organize and study the data. We will aggregate the data to showcase the trends and schools’ performance that could potentially assist the school board and superintendent in making decision regarding school budget and priorities.
 # Results:
 The analysis revealed that charter schools perform better than district schools (i.e. Public schools) when it comes to students ‘standardized math and reading tests. It also showed that the smaller the school (i.e. 1000 – 2000 students) and the more a school spends on a student, the more likely are the students to do better on standardized math and reading tests.
-<p> <!-- Adding a blank line -->  
+ 
 Also, before the change of the data, the five best schools were Cabrera, Thomas, Griffin, Wilson, and Pena high schools. But, with the change Thomas high school was dropped out of the list and Wright high school moved up while Griffin replaced Thomas on the second place.
-<p> <!-- Adding a blank line -->  
+
 The 5 least schools were Rodriguez, Figueroa, Huang, Hernandez, and Johnson high schools.
-<p> <!-- Adding a blank line -->  
+  
 The change in Thomas high school data had a significant effect on the Thomas high school performance. The average Math Score, average reading score, % passing math, % passing reading, and % overall passing declined:
-<p> <!-- Adding a blank line -->  
+
 *	Total School Budget - the change in data did not affect this metric
 *	Per Student Budget - the change in data did not affect this metric
 *	Average Math Score - the change in data did adversely affect Thomas high school’ s math performance. But other schools were not affected.
